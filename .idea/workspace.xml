@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bde1ffa9-66e8-49e1-a4bf-110effb86a12" name="Default Changelist" comment="" />
+    <list default="true" id="bde1ffa9-66e8-49e1-a4bf-110effb86a12" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MaximumProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MaximumProduct.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,10 +102,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595442294224" />
-    <state x="860" y="312" key="Vcs.Push.Dialog.v2" timestamp="1595443535330">
+    <state x="860" y="312" key="Vcs.Push.Dialog.v2" timestamp="1595443835788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="860" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595443535330" />
+    <state x="860" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595443835788" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595441913091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
