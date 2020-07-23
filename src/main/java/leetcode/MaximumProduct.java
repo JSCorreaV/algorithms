@@ -10,7 +10,7 @@ public class MaximumProduct {
      * @param nums array of integers
      * @return maximum value of (nums[i]-1)*(nums[j]-1)
      */
-    public static int maxProduct(int[] nums) {
+    public int maxProduct(int[] nums) {
         int first = nums[0];
         int second = 0;
         for (int n : nums) {
@@ -25,8 +25,9 @@ public class MaximumProduct {
     }
 
     public static void main(String[] args) {
+        MaximumProduct maximumProduct = new MaximumProduct();
         int[] nums = {3, 4, 5, 2};
-        System.out.println(maxProduct(nums));
+        System.out.println(maximumProduct.maxProduct(nums));
     }
 
 
